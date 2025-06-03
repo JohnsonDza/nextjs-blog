@@ -30,7 +30,7 @@ content:
   - name: postsr
     label: Postsdd
     type: collection
-    path: _posts
+    path: _poststsst
     view:
       fields: [ coverImage, title, date ]
     fields:
